@@ -13,7 +13,6 @@ namespace TesteSonar
         static void Main(string[] args)
         {
             ExecutarComando(args[0]);
-
         }
 
 
